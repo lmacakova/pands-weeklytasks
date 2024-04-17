@@ -9,4 +9,5 @@ My solutions to the weekly tasks as a student of the programme Higher Diploma in
 6. Sixth week: squareroot.py
 7. Seventh week: es.py
 8. Eighth week: plottask.py
+
 The file snow-white.txt is for testing es.py.
