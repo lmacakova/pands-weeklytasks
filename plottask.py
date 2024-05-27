@@ -2,7 +2,6 @@ import matplotlib.pyplot as plt
 import numpy as np
 def h(n):
     return n**3
-x=np.arange(0,11)
 y=h(x)
 
 normalThousand = np.random.normal(5, 2, 1000)
