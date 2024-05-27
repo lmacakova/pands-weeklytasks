@@ -31,7 +31,7 @@ Solution: Newton method [^6]. First to define function squareroot(n) function wi
 7. Seventh week: es.py
 Instructions: Write a program that reads in a text file and outputs the number of e's it contains. The program should take the filename from an argument on the command line. 
 
-Solution: Module sys imported. Try block and except blocks for error handling which can print proper messages [^8]. In try block is the function open() for manipulation with files, that takes the whole file as an argument f with sys.argv[1] [^9]. Variables: file with f.read() [10], x with file.count('e'), y with file.count('E') [^11] and z with x+y. Try block is finished with print(z) command. The file snow-white.txt is for testing es.py.          
+Solution: Module sys imported. Try block and except blocks for error handling which can print proper messages [^8]. In try block is the function open() for manipulation with files, that takes the whole file as an argument f with sys.argv[1] [^9]. Variables: file with f.read() [^10], x with file.count('e'), y with file.count('E') [^11] and z with x+y. Try block is finished with print(z) command. The file snow-white.txt is for testing es.py.          
 
 8. Eighth week: plottask.py
 Instructions: Write a program called plottask.py that displays:
