@@ -41,17 +41,17 @@ Solution: To import matplotlib.pyplot as plt and numpy as np. Function h(n) whic
 
 
 ### Resources
-[^1]https://docs.python.org/3/library/functions.html
-[^2]https://www.w3schools.com/python/python_while_loops.asp
-[^3]https://pandas.pydata.org/docs/reference/api/pandas.to_datetime.html
-[^4]https://pandas.pydata.org/docs/reference/api/pandas.Series.dt.day_name.html
-[^5]https://www.w3schools.com/python/python_conditions.asp
-[^6]https://www.geeksforgeeks.org/find-root-of-a-number-using-newtons-method/
-[^7]https://www.w3schools.com/python/ref_func_round.asp
-[^8]https://www.w3schools.com/python/python_try_except.asp
-[^9]https://docs.python.org/3/library/sys.html
-[^10]https://www.w3schools.com/python/ref_file_read.asp
-[^11]https://www.w3schools.com/python/ref_list_count.asp
-[^12]https://numpy.org/doc/stable/reference/generated/numpy.arange.html
-[^13]https://numpy.org/doc/stable/reference/random/generated/numpy.random.standard_normal.html
+[^1]: https://docs.python.org/3/library/functions.html
+[^2]: https://www.w3schools.com/python/python_while_loops.asp
+[^3]: https://pandas.pydata.org/docs/reference/api/pandas.to_datetime.html
+[^4]: https://pandas.pydata.org/docs/reference/api/pandas.Series.dt.day_name.html
+[^5]: https://www.w3schools.com/python/python_conditions.asp
+[^6]: https://www.geeksforgeeks.org/find-root-of-a-number-using-newtons-method/
+[^7]: https://www.w3schools.com/python/ref_func_round.asp
+[^8]: https://www.w3schools.com/python/python_try_except.asp
+[^9]: https://docs.python.org/3/library/sys.html
+[^10]:https://www.w3schools.com/python/ref_file_read.asp
+[^11]:https://www.w3schools.com/python/ref_list_count.asp
+[^12]:https://numpy.org/doc/stable/reference/generated/numpy.arange.html
+[^13]:https://numpy.org/doc/stable/reference/random/generated/numpy.random.standard_normal.html
 
